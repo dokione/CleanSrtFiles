@@ -3,12 +3,12 @@ It helps you free up space on your device by deleting unused srt files. Srt file
 
 ## Requirements
 
- - JDK 15
+ - JDK 11
 
 ## Using
 
 ```bash
-java -jar jar/cleanSrtFiler.jar
+java -jar dist/cleanSrtFiles-1.0.jar
 ```
 
 If create monthly or weekly service then you never have to thinking delete unused movie directories.
