@@ -8,8 +8,7 @@ It helps you free up space on your device by deleting unused srt files. Srt file
 ## Using
 
 ```bash
-java -jar dist/cleanSrtFiles-1.0.jar
+java -jar cleanSrtFiles-1.0.jar
 ```
 
 If create monthly or weekly service then you never have to thinking delete unused movie directories.
-	
